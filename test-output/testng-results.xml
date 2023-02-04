@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-04T14:18:39 CET" name="Default suite" finished-at="2023-02-04T14:20:03 CET" duration-ms="83536">
+    <groups>
+    </groups>
+    <test started-at="2023-02-04T14:18:39 CET" name="Default test" finished-at="2023-02-04T14:20:03 CET" duration-ms="83536">
+      <class name="test.SuiteTestCases">
+        <test-method is-config="true" signature="setupConfiguration()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:18:39 CET" name="setupConfiguration" finished-at="2023-02-04T14:18:41 CET" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupConfiguration -->
+        <test-method signature="isPhoneNumberSame()[pri:1, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:18:41 CET" name="isPhoneNumberSame" description="Verify same phone number in contact us and terms&amp;condition page" finished-at="2023-02-04T14:18:46 CET" duration-ms="4707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPhoneNumberSame -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:18:46 CET" name="closeWindow" finished-at="2023-02-04T14:19:02 CET" duration-ms="16199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setupConfiguration()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:02 CET" name="setupConfiguration" finished-at="2023-02-04T14:19:03 CET" duration-ms="1350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupConfiguration -->
+        <test-method signature="isTextShowingMultipleTimes()[pri:2, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:03 CET" name="isTextShowingMultipleTimes" description="Verify how many times Faraday shows" finished-at="2023-02-04T14:19:07 CET" duration-ms="3329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTextShowingMultipleTimes -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:07 CET" name="closeWindow" finished-at="2023-02-04T14:19:23 CET" duration-ms="16192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setupConfiguration()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:23 CET" name="setupConfiguration" finished-at="2023-02-04T14:19:25 CET" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupConfiguration -->
+        <test-method signature="isWarningMessageshow()[pri:3, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:25 CET" name="isWarningMessageshow" description="Verify form error message warning" finished-at="2023-02-04T14:19:25 CET" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isWarningMessageshow -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:25 CET" name="closeWindow" finished-at="2023-02-04T14:19:42 CET" duration-ms="16212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setupConfiguration()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:42 CET" name="setupConfiguration" finished-at="2023-02-04T14:19:43 CET" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupConfiguration -->
+        <test-method signature="isMonthsRetrieved()[pri:4, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:43 CET" name="isMonthsRetrieved" description="Verify month with current and two before" finished-at="2023-02-04T14:19:46 CET" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isMonthsRetrieved -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:test.SuiteTestCases@34f7cfd9]" started-at="2023-02-04T14:19:46 CET" name="closeWindow" finished-at="2023-02-04T14:20:03 CET" duration-ms="16202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- test.SuiteTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
